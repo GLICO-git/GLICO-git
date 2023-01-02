@@ -1,6 +1,6 @@
 ## 하나 하나 천천히 채워 나가보자고
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Sanghyun%20Lee&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=It's Me%20GLICO&fontSize=70&animation=twinkling)
 
 <p align="center">🇰🇷</p>
 
